@@ -1,0 +1,5 @@
+*** Para iniciar la presentación ***
+	Debe ejecutar el comando en su terminal
+	Despues de run se debe especificar la ruta donde se encuentra el archivo
+	Comando:
+	stream lit run inicio.py
